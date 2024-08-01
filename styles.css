@@ -1,0 +1,21 @@
+/* Custom styles for Fit with Sudhi website */
+
+.hero {
+    background-image: url('images/hero-background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.service-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.testimonial {
+    background-color: #f8f9fa;
+}
+
+/* Add any additional custom styles here */
